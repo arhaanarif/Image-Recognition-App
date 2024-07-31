@@ -26,7 +26,7 @@ Given sufficient training data, an image classification model can predict whethe
 
 ## Installation
 
-1. Clone the repository: https://github.com/dayam8696/Image-Recognition-Android-App.git
+1. Clone the repository:https://github.com/arhaanarif/Image-Recognition-App.git
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 
